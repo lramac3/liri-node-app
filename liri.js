@@ -1,16 +1,6 @@
 // require("dotenv").config();
 
-const inquirer = require('inquirer');
+const command = process.argv[2];
+const value = process.argv[3];
+// node liri.js concert-this <artist/band name here>
 
-const questions = [
-    {type: 'input', name: 'name', message:'What is your name'}
-    ]
-
-inquirer
-  .prompt(questions)
-    /* Pass your questions in here */
-  .then(answers => {
-    // Use user feedback for... whatever!!
-
-    console.log('Answers: ', answers)
-  });
