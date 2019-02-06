@@ -1,0 +1,146 @@
+Concert info: 
+Concert #1:
+                
+Venue name: Pepsi Center
+                
+Venue location: Denver in United States
+                
+Concert date: 02/07/2019
+                
+Concert #2:
+                
+Venue name: BOK Center
+                
+Venue location: Tulsa in United States
+                
+Concert date: 02/09/2019
+                
+Concert #3:
+                
+Venue name: CenturyLink Center Omaha
+                
+Venue location: Omaha in United States
+                
+Concert date: 02/12/2019
+                
+Concert #4:
+                
+Venue name: Sprint Center
+                
+Venue location: Kansas City in United States
+                
+Concert date: 02/13/2019
+                
+Concert #5:
+                
+Venue name: Madison Square Garden
+                
+Venue location: New York in United States
+                
+Concert date: 02/18/2019
+                
+Concert #6:
+                
+Venue name: Wisconsin Entertainment and Sports Center
+                
+Venue location: Milwaukee in United States
+                
+Concert date: 02/19/2019
+                
+Concert #7:
+                
+Venue name: Target Center
+                
+Venue location: Minneapolis in United States
+                
+Concert date: 02/21/2019
+                
+Concert #8:
+                
+Venue name: U.S. Bank Arena
+                
+Venue location: Cincinnati in United States
+                
+Concert date: 02/27/2019
+                
+Concert #9:
+                
+Venue name: Times Union Center
+                
+Venue location: Albany in United States
+                
+Concert date: 03/01/2019
+                
+Concert #10:
+                
+Venue name: Barclays Center
+                
+Venue location: Brooklyn in United States
+                
+Concert date: 03/08/2019
+                
+Concert #11:
+                
+Venue name: PNC Arena
+                
+Venue location: Raleigh in United States
+                
+Concert date: 03/12/2019
+                
+Concert #12:
+                
+Venue name: Colonial Life Arena
+                
+Venue location: Columbia in United States
+                
+Concert date: 03/13/2019
+                
+Concert #13:
+                
+Venue name: Jacksonville Veterans Memorial Arena
+                
+Venue location: Jacksonville in United States
+                
+Concert date: 03/15/2019
+                
+Concert #14:
+                
+Venue name: Tauron Arena
+                
+Venue location: Kraków in Poland
+                
+Concert date: 05/04/2019
+                
+Concert #15:
+                
+Venue name: O2 Arena
+                
+Venue location: Prague in Czech Republic
+                
+Concert date: 05/07/2019
+                
+Concert #16:
+                
+Venue name: Ziggo Dome
+                
+Venue location: Nieuw-amsterdam in Netherlands
+                
+Concert date: 05/15/2019
+                
+Concert #17:
+                
+Venue name: Royal Arena
+                
+Venue location: Copenhagen in Denmark
+                
+Concert date: 05/18/2019
+                
+Concert #18:
+                
+Venue name: Scandinavium
+                
+Venue location: Goteborg in Sweden
+                
+Concert date: 05/19/2019
+                
+
