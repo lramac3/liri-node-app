@@ -1560,3 +1560,390 @@ Language: English, Russian, Hindi
 Plot Summary: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
             
 Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Concert info: 
+Concert #1:
+                
+Venue name: Frank Erwin Center
+                
+Venue location: Austin in United States
+                
+Concert date: 02/08/2019
+                
+Concert #2:
+                
+Venue name: Smoothie King Center
+                
+Venue location: New Orleans in United States
+                
+Concert date: 02/09/2019
+                
+Concert #3:
+                
+Venue name: Tingley Coliseum
+                
+Venue location: Albuquerque in United States
+                
+Concert date: 02/12/2019
+                
+Concert #4:
+                
+Venue name: Honda Center
+                
+Venue location: Anaheim in United States
+                
+Concert date: 02/14/2019
+                
+Concert #5:
+                
+Venue name: The Forum
+                
+Venue location: Inglewood in United States
+                
+Concert date: 02/15/2019
+                
+Concert #6:
+                
+Venue name: Pechanga Arena San Diego
+                
+Venue location: San Diego in United States
+                
+Concert date: 02/16/2019
+                
+Concert #7:
+                
+Venue name: ORACLE Arena
+                
+Venue location: Oakland in United States
+                
+Concert date: 02/19/2019
+                
+Concert #8:
+                
+Venue name: Golden1 Center
+                
+Venue location: Sacramento in United States
+                
+Concert date: 02/20/2019
+                
+Concert #9:
+                
+Venue name: RODEOHOUSTON
+                
+Venue location: Houston in United States
+                
+Concert date: 03/03/2019
+                
+Concert #10:
+                
+Venue name: AFAS Live
+                
+Venue location: Amsterdam in Netherlands
+                
+Concert date: 03/18/2019
+                
+Concert #11:
+                
+Venue name: Zenith
+                
+Venue location: Paris in France
+                
+Concert date: 03/19/2019
+                
+Concert #12:
+                
+Venue name: Lotto Arena
+                
+Venue location: Antwerp in Belgium
+                
+Concert date: 03/21/2019
+                
+Concert #13:
+                
+Venue name: SSE Hydro
+                
+Venue location: Glasgow in United Kingdom
+                
+Concert date: 03/24/2019
+                
+Concert #14:
+                
+Venue name: Motorpoint Arena
+                
+Venue location: Cardiff in United Kingdom
+                
+Concert date: 03/25/2019
+                
+Concert #15:
+                
+Venue name: Arena Birmingham
+                
+Venue location: Birmingham in United Kingdom
+                
+Concert date: 03/26/2019
+                
+Concert #16:
+                
+Venue name: The O2
+                
+Venue location: London in United Kingdom
+                
+Concert date: 03/28/2019
+                
+Concert #17:
+                
+Venue name: The O2
+                
+Venue location: London in United Kingdom
+                
+Concert date: 03/29/2019
+                
+Concert #18:
+                
+Venue name: Manchester Arena
+                
+Venue location: Manchester in United Kingdom
+                
+Concert date: 03/30/2019
+                
+Concert #19:
+                
+Venue name: ISS DOME 
+                
+Venue location: Düsseldorf in Germany
+                
+Concert date: 04/01/2019
+                
+Concert #20:
+                
+Venue name: Mercedes-Benz Arena
+                
+Venue location: Berlin in Germany
+                
+Concert date: 04/03/2019
+                
+Concert #21:
+                
+Venue name: Barclaycard Arena
+                
+Venue location: Hamburg in Germany
+                
+Concert date: 04/04/2019
+                
+Concert #22:
+                
+Venue name: Firefly Music Festival
+                
+Venue location: Dover in United States
+                
+Concert date: 06/21/2019
+                
+
+Song info: 
+
+Song name: The Sign
+        
+Artist name: Ace of Base
+        
+Album name: The Sign (US Album) [Remastered]
+        
+Preview track: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=553b2408d4c14f1a9985b91d240592c5
+Movie info: 
+
+Movie Title: Mr. Nobody
+            
+Release Year: 2009
+            
+Ratings: Internet Movie Database Rating: 7.8/10; Rotten Tomatoes Rating: 67%
+            
+Country:Belgium, Germany, Canada, France, USA, UK
+            
+Language: English, Mohawk
+            
+Plot Summary: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+            
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Movie info: 
+
+Movie Title: The Avengers
+            
+Release Year: 2012
+            
+Ratings: Internet Movie Database Rating: 8.1/10; Rotten Tomatoes Rating: 92%
+            
+Country:USA
+            
+Language: English, Russian, Hindi
+            
+Plot Summary: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+            
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
+Concert info: 
+Concert #1:
+                
+Venue name: Pepsi Center
+                
+Venue location: Denver in United States
+                
+Concert date: 02/07/2019
+                
+Concert #2:
+                
+Venue name: BOK Center
+                
+Venue location: Tulsa in United States
+                
+Concert date: 02/09/2019
+                
+Concert #3:
+                
+Venue name: CenturyLink Center Omaha
+                
+Venue location: Omaha in United States
+                
+Concert date: 02/12/2019
+                
+Concert #4:
+                
+Venue name: Sprint Center
+                
+Venue location: Kansas City in United States
+                
+Concert date: 02/13/2019
+                
+Concert #5:
+                
+Venue name: Madison Square Garden
+                
+Venue location: New York in United States
+                
+Concert date: 02/18/2019
+                
+Concert #6:
+                
+Venue name: Wisconsin Entertainment and Sports Center
+                
+Venue location: Milwaukee in United States
+                
+Concert date: 02/19/2019
+                
+Concert #7:
+                
+Venue name: Target Center
+                
+Venue location: Minneapolis in United States
+                
+Concert date: 02/21/2019
+                
+Concert #8:
+                
+Venue name: U.S. Bank Arena
+                
+Venue location: Cincinnati in United States
+                
+Concert date: 02/27/2019
+                
+Concert #9:
+                
+Venue name: Times Union Center
+                
+Venue location: Albany in United States
+                
+Concert date: 03/01/2019
+                
+Concert #10:
+                
+Venue name: Barclays Center
+                
+Venue location: Brooklyn in United States
+                
+Concert date: 03/08/2019
+                
+Concert #11:
+                
+Venue name: PNC Arena
+                
+Venue location: Raleigh in United States
+                
+Concert date: 03/12/2019
+                
+Concert #12:
+                
+Venue name: Colonial Life Arena
+                
+Venue location: Columbia in United States
+                
+Concert date: 03/13/2019
+                
+Concert #13:
+                
+Venue name: Jacksonville Veterans Memorial Arena
+                
+Venue location: Jacksonville in United States
+                
+Concert date: 03/15/2019
+                
+Concert #14:
+                
+Venue name: Tauron Arena
+                
+Venue location: Kraków in Poland
+                
+Concert date: 05/04/2019
+                
+Concert #15:
+                
+Venue name: O2 Arena
+                
+Venue location: Prague in Czech Republic
+                
+Concert date: 05/07/2019
+                
+Concert #16:
+                
+Venue name: Ziggo Dome
+                
+Venue location: Nieuw-amsterdam in Netherlands
+                
+Concert date: 05/15/2019
+                
+Concert #17:
+                
+Venue name: Royal Arena
+                
+Venue location: Copenhagen in Denmark
+                
+Concert date: 05/18/2019
+                
+Concert #18:
+                
+Venue name: Scandinavium
+                
+Venue location: Goteborg in Sweden
+                
+Concert date: 05/19/2019
+                
+
+Song info: 
+
+Song name: Umbrella
+        
+Artist name: Rihanna
+        
+Album name: Good Girl Gone Bad: Reloaded
+        
+Preview track: No preview available
+Movie info: 
+
+Movie Title: The Avengers
+            
+Release Year: 2012
+            
+Ratings: Internet Movie Database Rating: 8.1/10; Rotten Tomatoes Rating: 92%
+            
+Country:USA
+            
+Language: English, Russian, Hindi
+            
+Plot Summary: Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.
+            
+Actors: Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth
