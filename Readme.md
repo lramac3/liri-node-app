@@ -72,13 +72,11 @@ Use screenshots below as reference
 
 ![node-concert](https://user-images.githubusercontent.com/28829258/52517567-30699900-2c0b-11e9-9917-1debcd4c0c7e.png)
 
-![node-spotify](https://user-images.githubusercontent.com/28829258/52517574-44ad9600-2c0b-11e9-99c5-3e40197a0a78.png)
-
 ![node-movie](https://user-images.githubusercontent.com/28829258/52517577-4ecf9480-2c0b-11e9-85ab-91fcbc103fb1.png)
 
-![node-do](https://user-images.githubusercontent.com/28829258/52517587-598a2980-2c0b-11e9-94dc-033aaf0dd148.png)
+![node-spotify](https://user-images.githubusercontent.com/28829258/52517698-1335ca00-2c0d-11e9-9c36-169f3df90e68.png)
 
-
+![node-do](https://user-images.githubusercontent.com/28829258/52517701-247ed680-2c0d-11e9-9eac-a400f92760b4.png)
 
 
 ### APIs Used
