@@ -38,6 +38,7 @@ Search random text
 liri do-what-it-says
 ```
 Use the screenshots below as reference
+
 ![liri-concert-this](https://user-images.githubusercontent.com/28829258/52517286-58ef9400-2c07-11e9-87d2-da18c61b96cc.png)
 
 ![liri-spotify-this](https://user-images.githubusercontent.com/28829258/52517311-b4218680-2c07-11e9-9fd6-4266e864e9fa.png)
@@ -65,6 +66,19 @@ Search random text
 node index.js do-what-it-says
 ```
 Use screenshots below as reference
+
+
+![node-incorrect](https://user-images.githubusercontent.com/28829258/52517563-1465f780-2c0b-11e9-95c8-98694082e822.png)
+
+![node-concert](https://user-images.githubusercontent.com/28829258/52517567-30699900-2c0b-11e9-9917-1debcd4c0c7e.png)
+
+![node-spotify](https://user-images.githubusercontent.com/28829258/52517574-44ad9600-2c0b-11e9-99c5-3e40197a0a78.png)
+
+![node-movie](https://user-images.githubusercontent.com/28829258/52517577-4ecf9480-2c0b-11e9-85ab-91fcbc103fb1.png)
+
+![node-do](https://user-images.githubusercontent.com/28829258/52517587-598a2980-2c0b-11e9-94dc-033aaf0dd148.png)
+
+
 
 
 ### APIs Used
