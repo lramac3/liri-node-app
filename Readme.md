@@ -1,10 +1,10 @@
-# Welcome to Liri Bot
+# Welcome to LIRI Bot
 
 LIRI is a Language Interpretation and Recognition Interface. LIRI takes the user's command line input to look up movie info, song info, concert info, or follow written instructions from a text file.
 
 ### Getting Started
 
-If you are downloading the npm package, just run the following command in your terminal
+If you are downloading the npm package, run the following command in your terminal
 
 ```
 sudo npm install liri-node-app1 -g
@@ -16,12 +16,14 @@ If you are cloning this repository from github, create your own .env file and in
 
 ### Commands
 
-If you downloaded the liri-node-app1 package then enter the commands listed in the example below to look up info. Once user enters liri in command line and hits enter, liri reminds the user to enter an action and a search term.
+If you downloaded the liri-node-app1 package enter the commands listed in the example below to look up info. Once user enters liri in command line and hits enter, LIRI reminds the user to enter an action and a search term.
+
 ![just-liri](https://user-images.githubusercontent.com/28829258/52517247-ab7c8080-2c06-11e9-9e64-1c7988e4a6a9.png)
-If the action  or search term is mispelled liri reminds the user to enter the command format that needs to be entered in the command line.
+
+In case the action  or search term is mispelled LIRI reminds the user to enter the command format that needs to be entered in the command line.
 
 ![liri-incomplete-action](https://user-images.githubusercontent.com/28829258/52517271-19c14300-2c07-11e9-8308-b05e6f904b5d.png) 
-Before you use the liri do-what-it-says make sure to include random.txt file in the directory you are running the liri command from and has a text like spotify-this-song,"I Want it That Way" OR concert-this,"Elton John" OR movie-this,"Avengers"
+Before you use the liri do-what-it-says make sure to include random.txt file in the directory you are running the LIRI command from and has a text like spotify-this-song,"I Want it That Way" OR concert-this,"Elton John" OR movie-this,"Avengers"
 
 Example:
 ```
