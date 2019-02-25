@@ -87,5 +87,4 @@ BandsInTown, Spotify, Open Movie Database
 
 ### NPMs Used
 
-axios, spotify-node-api, moment, fs, moment, dotenv
-
+axios, spotify-node-api, fs, moment, dotenv
